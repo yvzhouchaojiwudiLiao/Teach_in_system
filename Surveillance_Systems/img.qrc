@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>C:/Users/Liao/Downloads/start.png</file>
+        <file>C:/Users/Liao/Downloads/stop.png</file>
+        <file>C:/Users/Liao/Downloads/prev.png</file>
+        <file>C:/Users/Liao/Downloads/next.png</file>
+    </qresource>
+</RCC>
